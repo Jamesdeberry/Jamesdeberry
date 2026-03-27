@@ -1,15 +1,39 @@
-- 👋 Hi, I’m @Jamesdeberry
-- 👀 I’m interested in cybersecurity ...
-- 🌱 I’m currently learning networks and learning python ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me James.deberry03@gmail.com ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: ...
-- Incident Handler’s Journal "Coming Soon"
-- Vulnerable System Analysis "Coming Soon"
-- SQL Query “Coming Soon”
-- TryHackMe Journal "Coming soon" ...
-<!---
-Jamesdeberry/Jamesdeberry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Cybersecurity Engineer | Penetration Testing | IT Support
+
+🚀 About Me
+
+I’m a hands-on cybersecurity practitioner transitioning into penetration testing and security engineering.
+
+I focus on:
+
+🔍 Network & service enumeration
+💥 Exploitation (Windows, Linux, Web)
+🔐 Privilege escalation techniques
+📝 Professional penetration testing reporting
+🧪 Featured Work
+🔗 Penetration Testing Portfolio
+
+👉 https://github.com/Jamesdeberry/penetration-testing-reports
+
+Includes:
+
+MS17-010 (EternalBlue) exploitation → SYSTEM access
+SQL Injection authentication bypass
+Linux privilege escalation (SUID, NFS, SMB)
+🛠️ Skills
+Nmap, Gobuster, Netcat
+Metasploit Framework
+Linux & Windows Privilege Escalation
+Web Application Testing (SQLi)
+Report Writing & Documentation
+📚 Currently Learning
+Advanced privilege escalation
+Active Directory attacks
+Python for automation
+📫 Contact
+
+📧 James.deberry03@gmail.com
+
+⚡ Goal
+
+To land a cybersecurity role where I can apply hands-on offensive security skills and continue developing as a penetration tester.
